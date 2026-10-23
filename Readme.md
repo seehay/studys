@@ -1,6 +1,7 @@
 # Endless HTML · 知识站
 
 这里存放一系列**知识讲解类 HTML 学习页面**。
+[GO Site](!https://serenyth.github.io/studys/)
 
 ## 关于内容
 
